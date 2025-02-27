@@ -1,0 +1,14 @@
+.wrapper {
+  padding: 30px 0;
+}
+
+.mainTitle {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.text {
+  text-align: center;
+  font-size: 22px;
+}
